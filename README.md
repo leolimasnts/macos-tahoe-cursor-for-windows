@@ -2,15 +2,6 @@
 
 ![Preview](cover.png)
 
-A beautiful white cursor theme inspired by macOS Tahoe, ported for Windows.
-
-## ✨ Features
-
-- 47 cursor icons including animated cursors
-- High-resolution (48x48) for sharp display on modern screens
-- Smooth animations for loading states
-- Clean white design with subtle shadows
-
 ## 📦 Installation
 
 1. Download or clone this repository
