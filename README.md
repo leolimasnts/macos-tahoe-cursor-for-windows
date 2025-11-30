@@ -29,17 +29,6 @@
 | Resize cursors | Horizontal, Vertical, Diagonal |
 | And many more... | 47 cursors total |
 
-## 📁 Structure
-
-```
-├── cover.png          # Preview image
-├── README.md
-└── cursors/
-    ├── Install.inf    # Windows installation script
-    ├── *.cur          # Static cursor files
-    └── *.ani          # Animated cursor files
-```
-
 ## 🗑️ Uninstallation
 
 1. Go to **Settings > Bluetooth & devices > Mouse > Additional mouse settings**
@@ -48,11 +37,6 @@
 4. Click **Apply**
 5. Delete the folder `C:\Windows\Cursors\MacOS-Tahoe-White`
 
-## 📄 License
-
-This cursor theme is for personal use. Original design inspired by macOS.
-
 ## 🙏 Credits
 
-- Cursor design inspired by Apple's macOS Tahoe
-- Converted from XCursor format to Windows format
+- vinceliuice's macOS Tahoe theme: https://github.com/vinceliuice/MacTahoe-icon-theme/
